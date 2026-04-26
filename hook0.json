@@ -32,7 +32,7 @@
       "logo_url": "https://www.hook0.com/mediakit/logo/400x400.png",
       "website_url": "https://www.hook0.com",
       "created_year": 2021,
-      "description": "Open-source webhooks-as-a-service (WaaS) platform built in Rust. Allows SaaS companies to provide webhooks to their users via a simple API, handling delivery in under 100ms, HMAC cryptographic signatures, configurable retry schedules, real-time monitoring, and subscriber management. Over 10 million webhooks delivered across 6 continents with 99.9% uptime SLA. GDPR compliant with EU data hosting. Available as managed cloud or self-hosted via Docker/Kubernetes. 100% bootstrapped, no VC funding.",
+      "description": "Open-source webhooks-as-a-service platform built in Rust. SaaS companies integrate it to send webhooks to their users. Handles delivery, HMAC signatures, retries, and monitoring. Available as managed cloud or self-hosted (Docker/Kubernetes). GDPR compliant, data hosted in France.",
       "category_list": ["Developer API"],
       "similar_solution_list": [
         {
