@@ -1,0 +1,88 @@
+{
+  "created": "2026-04-26",
+  "title": "Hook0",
+  "type": "Organisation",
+  "logo_url": "https://www.hook0.com/mediakit/logo/110x110-white.png",
+  "location": {
+    "title": "FGRIBREAU SARL",
+    "address": "3 rue de l'Aubépine",
+    "postal_code": "85110",
+    "city": "Chantonnay",
+    "country": "FR",
+    "phone_contact": "",
+    "mail_contact": "support@hook0.com",
+    "coordinate_list": [46.6824, -1.0628]
+  },
+  "subsidiary_location_list": [],
+  "website_url": "https://www.hook0.com",
+  "founded_year": 2021,
+  "kpi_list": [],
+  "solution_list": [
+    {
+      "title": "Hook0",
+      "logo_url": "https://www.hook0.com/mediakit/logo/110x110-white.png",
+      "website_url": "https://www.hook0.com",
+      "created_year": 2021,
+      "description": "Open-source webhooks-as-a-service (WaaS) platform. Allows SaaS companies to provide webhooks to their users via a simple API, handling delivery, HMAC signatures, automatic retries, monitoring, and subscriber management. Available as a managed cloud service or self-hosted.",
+      "category_list": ["Developer API"],
+      "similar_solution_list": [
+        {
+          "title": "Svix",
+          "similar_solution_url": "https://www.svix.com",
+          "category": "Developer API"
+        },
+        {
+          "title": "Convoy",
+          "similar_solution_url": "https://getconvoy.io",
+          "category": "Developer API"
+        },
+        {
+          "title": "Hookdeck",
+          "similar_solution_url": "https://hookdeck.com",
+          "category": "Developer API"
+        }
+      ],
+      "licence_list": ["sspl-1.0"],
+      "source_code_download": "https://github.com/hook0/hook0",
+      "source_code_profile": "https://www.openhub.net/p/hook0/analyses/latest/languages_summary",
+      "commercial_support_url": "https://www.hook0.com",
+      "floss_software": true,
+      "commercial_support_open_source_version": true,
+      "commercial_support_available": true,
+      "wikipedia_url": "",
+      "reference_list": [
+        {
+          "title": "Coinbase",
+          "country": "US",
+          "industry": "Banking and Finance"
+        },
+        {
+          "title": "WoodWing",
+          "country": "NL",
+          "industry": "Information Technology"
+        },
+        {
+          "title": "Optery",
+          "country": "US",
+          "industry": "Information Technology"
+        },
+        {
+          "title": "Alteos",
+          "country": "DE",
+          "industry": "Insurance"
+        },
+        {
+          "title": "ActiveAnts",
+          "country": "NL",
+          "industry": "Transport"
+        },
+        {
+          "title": "Apizee",
+          "country": "FR",
+          "industry": "Telecommunication"
+        }
+      ],
+      "success_case_list": []
+    }
+  ]
+}
