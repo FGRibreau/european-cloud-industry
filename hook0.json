@@ -2,7 +2,7 @@
   "created": "2026-04-26",
   "title": "Hook0",
   "type": "Organisation",
-  "logo_url": "https://www.hook0.com/mediakit/logo/110x110-white.png",
+  "logo_url": "https://www.hook0.com/mediakit/logo/400x400.png",
   "location": {
     "title": "FGRIBREAU SARL",
     "address": "3 rue de l'Aubépine",
@@ -16,14 +16,23 @@
   "subsidiary_location_list": [],
   "website_url": "https://www.hook0.com",
   "founded_year": 2021,
-  "kpi_list": [],
+  "kpi_list": [
+    {
+      "year": 2024,
+      "staff": 2,
+      "earnings": "169500 EUR",
+      "total_assets": "",
+      "revenues": "",
+      "source_url": "https://www.societe.com/societe/fgribreau-850824350.html"
+    }
+  ],
   "solution_list": [
     {
       "title": "Hook0",
-      "logo_url": "https://www.hook0.com/mediakit/logo/110x110-white.png",
+      "logo_url": "https://www.hook0.com/mediakit/logo/400x400.png",
       "website_url": "https://www.hook0.com",
       "created_year": 2021,
-      "description": "Open-source webhooks-as-a-service (WaaS) platform. Allows SaaS companies to provide webhooks to their users via a simple API, handling delivery, HMAC signatures, automatic retries, monitoring, and subscriber management. Available as a managed cloud service or self-hosted.",
+      "description": "Open-source webhooks-as-a-service (WaaS) platform built in Rust. Allows SaaS companies to provide webhooks to their users via a simple API, handling delivery in under 100ms, HMAC cryptographic signatures, configurable retry schedules, real-time monitoring, and subscriber management. Over 10 million webhooks delivered across 6 continents with 99.9% uptime SLA. GDPR compliant with EU data hosting. Available as managed cloud or self-hosted via Docker/Kubernetes. 100% bootstrapped, no VC funding.",
       "category_list": ["Developer API"],
       "similar_solution_list": [
         {
