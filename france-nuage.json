@@ -26,7 +26,7 @@
       "logo_url": "https://france-nuage.fr/images/fr/svg/logo.svg",
       "website_url": "https://france-nuage.fr",
       "created_year": 2023,
-      "description": "Sovereign cloud platform 100% hosted in France, fully open-source and re-internalizable. Provides managed application hosting with high availability (99.9% SLA), GDPR compliance, and no vendor lock-in. Supports custom application hosting, databases, and automated deployments.",
+      "description": "Open-source cloud platform hosted in France (SSPL-1.0). Managed application hosting, databases, and automated deployments. GDPR compliant, re-internalizable.",
       "category_list": [
         "Service lifecycle automation",
         "Application",
@@ -104,7 +104,7 @@
       "logo_url": "https://france-nuage.fr/images/fr/svg/logo.svg",
       "website_url": "https://france-nuage.fr",
       "created_year": 2023,
-      "description": "Fully managed Grafana monitoring and observability platform hosted in France. Turnkey deployment with automatic updates and backups.",
+      "description": "Managed Grafana instance hosted in France. Automatic updates and backups included.",
       "category_list": [
         "Operation management"
       ],
@@ -169,7 +169,7 @@
       "logo_url": "https://france-nuage.fr/images/fr/svg/logo.svg",
       "website_url": "https://france-nuage.fr",
       "created_year": 2023,
-      "description": "Fully managed Matomo web analytics platform hosted in France. GDPR-compliant alternative to Google Analytics with full data ownership.",
+      "description": "Managed Matomo web analytics hosted in France. GDPR-compliant alternative to Google Analytics.",
       "category_list": [
         "Application"
       ],
@@ -219,7 +219,7 @@
       "logo_url": "https://france-nuage.fr/images/fr/svg/logo.svg",
       "website_url": "https://france-nuage.fr",
       "created_year": 2023,
-      "description": "Fully managed GitLab CI/CD runners hosted in France. Sovereign CI/CD execution environment for GitLab pipelines.",
+      "description": "Managed GitLab CI/CD runners hosted in France.",
       "category_list": [
         "Developer environment"
       ],
@@ -274,7 +274,7 @@
       "logo_url": "https://france-nuage.fr/images/fr/svg/logo.svg",
       "website_url": "https://france-nuage.fr",
       "created_year": 2023,
-      "description": "Fully managed Odoo ERP/CRM platform hosted in France. Complete business suite including CRM, accounting, invoicing, and project management with sovereign hosting.",
+      "description": "Managed Odoo ERP/CRM hosted in France. Includes CRM, accounting, invoicing, and project management.",
       "category_list": [
         "Application"
       ],
@@ -309,7 +309,7 @@
       "logo_url": "https://france-nuage.fr/images/fr/svg/logo.svg",
       "website_url": "https://france-nuage.fr",
       "created_year": 2023,
-      "description": "Fully managed Vaultwarden password manager hosted in France. Bitwarden-compatible server for secure team credential management with sovereign data storage.",
+      "description": "Managed Vaultwarden password manager hosted in France. Bitwarden-compatible.",
       "category_list": [
         "Cybersecurity"
       ],
@@ -338,7 +338,7 @@
       "logo_url": "https://france-nuage.fr/images/fr/svg/logo.svg",
       "website_url": "https://france-nuage.fr",
       "created_year": 2023,
-      "description": "Fully managed Metabase business intelligence platform hosted in France. Self-service analytics and dashboards with sovereign data hosting.",
+      "description": "Managed Metabase BI platform hosted in France. Analytics dashboards with data stored in France.",
       "category_list": [
         "Application"
       ],
@@ -383,7 +383,7 @@
       "logo_url": "https://france-nuage.fr/images/fr/svg/logo.svg",
       "website_url": "https://france-nuage.fr",
       "created_year": 2023,
-      "description": "S3-compatible object storage hosted in France, powered by Ceph RadosGW. Sovereign cloud storage with GDPR compliance for files, backups, and static assets.",
+      "description": "S3-compatible object storage hosted in France, powered by Ceph RadosGW.",
       "category_list": [
         "Storage and database"
       ],
@@ -417,7 +417,7 @@
       "logo_url": "https://france-nuage.fr/images/fr/svg/logo.svg",
       "website_url": "https://france-nuage.fr",
       "created_year": 2023,
-      "description": "Fully managed DocuSeal digital signature platform hosted in France. Open-source alternative for electronic document signing with sovereign data storage and GDPR compliance.",
+      "description": "Managed DocuSeal electronic signature platform hosted in France. Open-source alternative to DocuSign.",
       "category_list": [
         "Application"
       ],
@@ -457,7 +457,7 @@
       "logo_url": "https://france-nuage.fr/images/fr/svg/logo.svg",
       "website_url": "https://france-nuage.fr",
       "created_year": 2023,
-      "description": "Fully managed Webstudio website builder hosted in France. Open-source visual web design platform with sovereign hosting, enabling no-code website creation with full data ownership.",
+      "description": "Managed Webstudio website builder hosted in France. Open-source alternative to Webflow.",
       "category_list": [
         "Application"
       ],
