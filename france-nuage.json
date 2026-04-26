@@ -1,0 +1,490 @@
+{
+  "created": "2026-04-24",
+  "title": "France Nuage",
+  "type": "Organisation",
+  "logo_url": "https://france-nuage.fr/images/fr/svg/logo.svg",
+  "location": {
+    "title": "France nuage SAS",
+    "address": "11 avenue de la promenade",
+    "postal_code": "85140",
+    "city": "Essarts-en-bocage",
+    "country": "FR",
+    "phone_contact": "+33 2 52 43 10 53",
+    "mail_contact": "bonjour@france-nuage.fr",
+    "coordinate_list": [
+      46.7375,
+      -1.0658
+    ]
+  },
+  "subsidiary_location_list": [],
+  "website_url": "https://france-nuage.fr",
+  "founded_year": 2023,
+  "kpi_list": [],
+  "solution_list": [
+    {
+      "title": "France Nuage Cloud Souverain",
+      "logo_url": "https://france-nuage.fr/images/fr/svg/logo.svg",
+      "website_url": "https://france-nuage.fr",
+      "created_year": 2023,
+      "description": "Sovereign cloud platform 100% hosted in France, fully open-source and re-internalizable. Provides managed application hosting with high availability (99.9% SLA), GDPR compliance, and no vendor lock-in. Supports custom application hosting, databases, and automated deployments.",
+      "category_list": [
+        "Service lifecycle automation",
+        "Application",
+        "Storage and database",
+        "Compute virtualisation"
+      ],
+      "similar_solution_list": [
+        {
+          "title": "Scaleway",
+          "similar_solution_url": "https://www.scaleway.com",
+          "category": "Compute virtualisation"
+        },
+        {
+          "title": "Clever Cloud",
+          "similar_solution_url": "https://www.clever-cloud.com",
+          "category": "Service lifecycle automation"
+        },
+        {
+          "title": "Platform.sh",
+          "similar_solution_url": "https://platform.sh",
+          "category": "Service lifecycle automation"
+        },
+        {
+          "title": "OVHcloud",
+          "similar_solution_url": "https://www.ovhcloud.com",
+          "category": "Compute virtualisation"
+        },
+        {
+          "title": "Outscale",
+          "similar_solution_url": "https://www.outscale.com",
+          "category": "Compute virtualisation"
+        },
+        {
+          "title": "Infomaniak",
+          "similar_solution_url": "https://www.infomaniak.com",
+          "category": "Compute virtualisation"
+        }
+      ],
+      "licence_list": [
+        "sspl-1.0"
+      ],
+      "source_code_download": "https://github.com/France-Nuage/plateforme",
+      "source_code_profile": "https://www.openhub.net/p/france-nuage/analyses/latest/languages_summary",
+      "commercial_support_url": "https://france-nuage.fr",
+      "floss_software": true,
+      "commercial_support_open_source_version": true,
+      "commercial_support_available": true,
+      "wikipedia_url": "",
+      "reference_list": [
+        {
+          "title": "Hook0",
+          "country": "FR",
+          "industry": "Information Technology"
+        },
+        {
+          "title": "Netir",
+          "country": "FR",
+          "industry": "Information Technology"
+        },
+        {
+          "title": "NoBullshit Collective",
+          "country": "FR",
+          "industry": "Information Technology"
+        },
+        {
+          "title": "NoBullshit Conseil",
+          "country": "FR",
+          "industry": "Consulting and Training"
+        }
+      ],
+      "success_case_list": []
+    },
+    {
+      "title": "France Nuage Managed Grafana",
+      "logo_url": "https://france-nuage.fr/images/fr/svg/logo.svg",
+      "website_url": "https://france-nuage.fr",
+      "created_year": 2023,
+      "description": "Fully managed Grafana monitoring and observability platform hosted in France. Turnkey deployment with automatic updates and backups.",
+      "category_list": [
+        "Operation management"
+      ],
+      "similar_solution_list": [
+        {
+          "title": "Grafana Cloud",
+          "similar_solution_url": "https://grafana.com/products/cloud/",
+          "category": "Operation management"
+        }
+      ],
+      "licence_list": [
+        "agpl-3.0"
+      ],
+      "source_code_download": "https://github.com/grafana/grafana",
+      "source_code_profile": "",
+      "commercial_support_url": "https://france-nuage.fr",
+      "floss_software": true,
+      "commercial_support_open_source_version": true,
+      "commercial_support_available": true,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Grafana",
+      "reference_list": [
+        {
+          "title": "Ascor",
+          "country": "FR",
+          "industry": "Education"
+        },
+        {
+          "title": "BIG",
+          "country": "FR",
+          "industry": "Media and Entertainment"
+        },
+        {
+          "title": "Cosika",
+          "country": "FR",
+          "industry": "Construction"
+        },
+        {
+          "title": "Hook0",
+          "country": "FR",
+          "industry": "Information Technology"
+        },
+        {
+          "title": "Netir",
+          "country": "FR",
+          "industry": "Information Technology"
+        },
+        {
+          "title": "Recapro",
+          "country": "FR",
+          "industry": "Information Technology"
+        },
+        {
+          "title": "Turquand",
+          "country": "FR",
+          "industry": "Energy and Utilities"
+        }
+      ],
+      "success_case_list": []
+    },
+    {
+      "title": "France Nuage Managed Matomo",
+      "logo_url": "https://france-nuage.fr/images/fr/svg/logo.svg",
+      "website_url": "https://france-nuage.fr",
+      "created_year": 2023,
+      "description": "Fully managed Matomo web analytics platform hosted in France. GDPR-compliant alternative to Google Analytics with full data ownership.",
+      "category_list": [
+        "Application"
+      ],
+      "similar_solution_list": [
+        {
+          "title": "Matomo Cloud",
+          "similar_solution_url": "https://matomo.org/matomo-cloud/",
+          "category": "Application"
+        }
+      ],
+      "licence_list": [
+        "gpl-3.0"
+      ],
+      "source_code_download": "https://github.com/matomo-org/matomo",
+      "source_code_profile": "",
+      "commercial_support_url": "https://france-nuage.fr",
+      "floss_software": true,
+      "commercial_support_open_source_version": true,
+      "commercial_support_available": true,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Matomo_(software)",
+      "reference_list": [
+        {
+          "title": "Natalia",
+          "country": "FR",
+          "industry": "Information Technology"
+        },
+        {
+          "title": "NoBullshit Collective",
+          "country": "FR",
+          "industry": "Information Technology"
+        },
+        {
+          "title": "NoBullshit Conseil",
+          "country": "FR",
+          "industry": "Consulting and Training"
+        },
+        {
+          "title": "Recapro",
+          "country": "FR",
+          "industry": "Information Technology"
+        }
+      ],
+      "success_case_list": []
+    },
+    {
+      "title": "France Nuage Managed GitLab Runner",
+      "logo_url": "https://france-nuage.fr/images/fr/svg/logo.svg",
+      "website_url": "https://france-nuage.fr",
+      "created_year": 2023,
+      "description": "Fully managed GitLab CI/CD runners hosted in France. Sovereign CI/CD execution environment for GitLab pipelines.",
+      "category_list": [
+        "Developer environment"
+      ],
+      "similar_solution_list": [
+        {
+          "title": "GitLab SaaS Runners",
+          "similar_solution_url": "https://docs.gitlab.com/ee/ci/runners/",
+          "category": "Developer environment"
+        }
+      ],
+      "licence_list": [
+        "mit"
+      ],
+      "source_code_download": "https://gitlab.com/gitlab-org/gitlab-runner",
+      "source_code_profile": "",
+      "commercial_support_url": "https://france-nuage.fr",
+      "floss_software": true,
+      "commercial_support_open_source_version": true,
+      "commercial_support_available": true,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/GitLab",
+      "reference_list": [
+        {
+          "title": "Articonnect",
+          "country": "FR",
+          "industry": "Construction"
+        },
+        {
+          "title": "BIG",
+          "country": "FR",
+          "industry": "Media and Entertainment"
+        },
+        {
+          "title": "Hook0",
+          "country": "FR",
+          "industry": "Information Technology"
+        },
+        {
+          "title": "Image-Charts",
+          "country": "FR",
+          "industry": "Information Technology"
+        },
+        {
+          "title": "Netir",
+          "country": "FR",
+          "industry": "Information Technology"
+        }
+      ],
+      "success_case_list": []
+    },
+    {
+      "title": "France Nuage Managed Odoo",
+      "logo_url": "https://france-nuage.fr/images/fr/svg/logo.svg",
+      "website_url": "https://france-nuage.fr",
+      "created_year": 2023,
+      "description": "Fully managed Odoo ERP/CRM platform hosted in France. Complete business suite including CRM, accounting, invoicing, and project management with sovereign hosting.",
+      "category_list": [
+        "Application"
+      ],
+      "similar_solution_list": [
+        {
+          "title": "Odoo Online",
+          "similar_solution_url": "https://www.odoo.com",
+          "category": "Application"
+        }
+      ],
+      "licence_list": [
+        "lgpl-3.0"
+      ],
+      "source_code_download": "https://github.com/odoo/odoo",
+      "source_code_profile": "",
+      "commercial_support_url": "https://france-nuage.fr",
+      "floss_software": true,
+      "commercial_support_open_source_version": true,
+      "commercial_support_available": true,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Odoo",
+      "reference_list": [
+        {
+          "title": "NoBullshit Conseil",
+          "country": "FR",
+          "industry": "Consulting and Training"
+        }
+      ],
+      "success_case_list": []
+    },
+    {
+      "title": "France Nuage Managed Vaultwarden",
+      "logo_url": "https://france-nuage.fr/images/fr/svg/logo.svg",
+      "website_url": "https://france-nuage.fr",
+      "created_year": 2023,
+      "description": "Fully managed Vaultwarden password manager hosted in France. Bitwarden-compatible server for secure team credential management with sovereign data storage.",
+      "category_list": [
+        "Cybersecurity"
+      ],
+      "similar_solution_list": [
+        {
+          "title": "Bitwarden",
+          "similar_solution_url": "https://bitwarden.com",
+          "category": "Cybersecurity"
+        }
+      ],
+      "licence_list": [
+        "agpl-3.0"
+      ],
+      "source_code_download": "https://github.com/dani-garcia/vaultwarden",
+      "source_code_profile": "",
+      "commercial_support_url": "https://france-nuage.fr",
+      "floss_software": true,
+      "commercial_support_open_source_version": true,
+      "commercial_support_available": true,
+      "wikipedia_url": "",
+      "reference_list": [],
+      "success_case_list": []
+    },
+    {
+      "title": "France Nuage Managed Metabase",
+      "logo_url": "https://france-nuage.fr/images/fr/svg/logo.svg",
+      "website_url": "https://france-nuage.fr",
+      "created_year": 2023,
+      "description": "Fully managed Metabase business intelligence platform hosted in France. Self-service analytics and dashboards with sovereign data hosting.",
+      "category_list": [
+        "Application"
+      ],
+      "similar_solution_list": [
+        {
+          "title": "Metabase Cloud",
+          "similar_solution_url": "https://www.metabase.com/cloud/",
+          "category": "Application"
+        }
+      ],
+      "licence_list": [
+        "agpl-3.0"
+      ],
+      "source_code_download": "https://github.com/metabase/metabase",
+      "source_code_profile": "",
+      "commercial_support_url": "https://france-nuage.fr",
+      "floss_software": true,
+      "commercial_support_open_source_version": true,
+      "commercial_support_available": true,
+      "wikipedia_url": "",
+      "reference_list": [
+        {
+          "title": "Ascor",
+          "country": "FR",
+          "industry": "Education"
+        },
+        {
+          "title": "Cosika",
+          "country": "FR",
+          "industry": "Construction"
+        },
+        {
+          "title": "Recapro",
+          "country": "FR",
+          "industry": "Information Technology"
+        }
+      ],
+      "success_case_list": []
+    },
+    {
+      "title": "France Nuage Stockage Objet S3",
+      "logo_url": "https://france-nuage.fr/images/fr/svg/logo.svg",
+      "website_url": "https://france-nuage.fr",
+      "created_year": 2023,
+      "description": "S3-compatible object storage hosted in France, powered by Ceph RadosGW. Sovereign cloud storage with GDPR compliance for files, backups, and static assets.",
+      "category_list": [
+        "Storage and database"
+      ],
+      "similar_solution_list": [
+        {
+          "title": "Scaleway Object Storage",
+          "similar_solution_url": "https://www.scaleway.com/en/object-storage/",
+          "category": "Storage and database"
+        },
+        {
+          "title": "OVHcloud Object Storage",
+          "similar_solution_url": "https://www.ovhcloud.com/en/public-cloud/object-storage/",
+          "category": "Storage and database"
+        }
+      ],
+      "licence_list": [
+        "lgpl-2.1"
+      ],
+      "source_code_download": "https://github.com/ceph/ceph",
+      "source_code_profile": "",
+      "commercial_support_url": "https://france-nuage.fr",
+      "floss_software": true,
+      "commercial_support_open_source_version": true,
+      "commercial_support_available": true,
+      "wikipedia_url": "",
+      "reference_list": [],
+      "success_case_list": []
+    },
+    {
+      "title": "France Nuage Managed DocuSeal",
+      "logo_url": "https://france-nuage.fr/images/fr/svg/logo.svg",
+      "website_url": "https://france-nuage.fr",
+      "created_year": 2023,
+      "description": "Fully managed DocuSeal digital signature platform hosted in France. Open-source alternative for electronic document signing with sovereign data storage and GDPR compliance.",
+      "category_list": [
+        "Application"
+      ],
+      "similar_solution_list": [
+        {
+          "title": "DocuSign",
+          "similar_solution_url": "https://www.docusign.com",
+          "category": "Application"
+        },
+        {
+          "title": "Yousign",
+          "similar_solution_url": "https://yousign.com",
+          "category": "Application"
+        }
+      ],
+      "licence_list": [
+        "agpl-3.0"
+      ],
+      "source_code_download": "https://github.com/docusealco/docuseal",
+      "source_code_profile": "",
+      "commercial_support_url": "https://france-nuage.fr",
+      "floss_software": true,
+      "commercial_support_open_source_version": true,
+      "commercial_support_available": true,
+      "wikipedia_url": "",
+      "reference_list": [
+        {
+          "title": "NoBullshit Collective",
+          "country": "FR",
+          "industry": "Information Technology"
+        }
+      ],
+      "success_case_list": []
+    },
+    {
+      "title": "France Nuage Managed Webstudio",
+      "logo_url": "https://france-nuage.fr/images/fr/svg/logo.svg",
+      "website_url": "https://france-nuage.fr",
+      "created_year": 2023,
+      "description": "Fully managed Webstudio website builder hosted in France. Open-source visual web design platform with sovereign hosting, enabling no-code website creation with full data ownership.",
+      "category_list": [
+        "Application"
+      ],
+      "similar_solution_list": [
+        {
+          "title": "Webflow",
+          "similar_solution_url": "https://webflow.com",
+          "category": "Application"
+        },
+        {
+          "title": "WordPress",
+          "similar_solution_url": "https://wordpress.org",
+          "category": "Application"
+        }
+      ],
+      "licence_list": [
+        "agpl-3.0"
+      ],
+      "source_code_download": "https://github.com/webstudio-is/webstudio",
+      "source_code_profile": "",
+      "commercial_support_url": "https://france-nuage.fr",
+      "floss_software": true,
+      "commercial_support_open_source_version": true,
+      "commercial_support_available": true,
+      "wikipedia_url": "",
+      "reference_list": [],
+      "success_case_list": []
+    }
+  ]
+}
